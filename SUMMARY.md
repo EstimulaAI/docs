@@ -10,4 +10,7 @@
 
 ## TÉCNICO
 
-* [Page 1](tecnico/page-1.md)
+* [Identidade Visual](tecnico/identidade-visual.md)
+* [Repositório](tecnico/repositorio.md)
+* [Jornada do Usuário](tecnico/jornada-do-usuario.md)
+* [MVP](tecnico/mvp.md)
