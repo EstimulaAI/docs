@@ -15,3 +15,7 @@
 * [Jornada do Usuário](tecnico/jornada-do-usuario.md)
 * [Protótipo](tecnico/prototipo.md)
 * [🔥 APP](tecnico/app.md)
+
+## CONSIDERAÇÕES
+
+* [🙏 Muito Obrigado](consideracoes/muito-obrigado.md)
