@@ -42,3 +42,9 @@ Essas foram minhas anotações para tentar entender e seguir:
 </details>
 
 Criada o Hello World em Flutter, vamos ao desenvolvimento do projeto e conexão da API.
+
+Enfim, consegui criar o aplicativo!
+
+{% embed url="https://www.youtube.com/watch?v=R_boKu4PiwY" %}
+APP EstimulaAI em funcionamento
+{% endembed %}
