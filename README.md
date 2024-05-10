@@ -16,12 +16,14 @@ Durante as terapias diárias do meu filho, eu e minha esposa percebíamos que so
 
 Gabriel agora tem 3 anos e, nesse contexto, surgiu a oportunidade de participar de uma [imersão de IA promovida pela Alura e pelo Google](https://www.alura.com.br/imersao-ia-google-gemini). O momento perfeito para usar minha experiência pessoal com inteligência artificial e criar algo significativo para o desenvolvimento do meu filho.
 
-Assim, nasce o <mark style="color:blue;">EstimulaAI</mark>, um chatbot que usa o Gemini, a inteligência artificial do Google, para criar brincadeiras, transformando objetos cotidianos em ferramentas que auxiliam o desenvolvimento infantil.&#x20;
+Assim, nasce o <mark style="color:blue;">EstimulaAI</mark>, uma aplicação que usa o Gemini, a inteligência artificial do Google, para criar brincadeiras, transformando objetos cotidianos em ferramentas que auxiliam o desenvolvimento infantil.
 
 {% hint style="info" %}
 Eiii, embora a proposta seja simples, ela envolve uma série de insights e aprendizados adquiridos durante a imersão, tudo devidamente documentado aqui.&#x20;
 
 Te convido a navegar pelas seções ao lado (ou nos links aqui embaixo 👇) para entender mais profundamente o projeto sob a ótica negocial e técnica. 😉
+
+E se gostou, convido a votar no link, [aqui](https://discord.com/channels/1228404913705451612/1228406162618060913/1238448664352133151).
 
 Ahh, tem <mark style="background-color:orange;">**SPOILER**</mark> no final de cada página!!!! 👀
 {% endhint %}
