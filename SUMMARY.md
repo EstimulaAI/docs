@@ -13,4 +13,5 @@
 * [Identidade Visual](tecnico/identidade-visual.md)
 * [Repositório](tecnico/repositorio.md)
 * [Jornada do Usuário](tecnico/jornada-do-usuario.md)
-* [MVP](tecnico/mvp.md)
+* [Protótipo](tecnico/prototipo.md)
+* [🔥 APP](tecnico/app.md)
